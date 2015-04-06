@@ -20,6 +20,7 @@ class DocumentField(serializers.Field):
     """
 
     type_label = 'DocumentField'
+    depth = 1
 
     def __init__(self, *args, **kwargs):
         try:

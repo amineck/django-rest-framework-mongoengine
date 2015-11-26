@@ -49,3 +49,9 @@ INSTALLED_APPS = (
     'rest_framework_mongoengine',
 )
 ```
+
+## Maintainers
+
+@qwiglydee
+
+Feel free to mail me if you consider being a maintainer.
